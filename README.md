@@ -1,5 +1,5 @@
 ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhGcXqLlAvzoUJjQXNvrkWhqsIVenq5ccM_qPsl_Gz68VK4WYTO5Hn4mNmDlI24DP0elDLTEOR4y1lKL8KVChnQz0WdJbYFr6UzzyHwLGV76G0EqOB9-1SQxm5qcQXQxTd-IR7zGpJu7dCU6t68oShDhoRsvmbKouaEhnSzeWkALLmJSm6v7tuRmjlIPQ=s16000)
-<h1 align="center">Hi 👋, I'm Pradyut Pal</h1>
+<h1 align="center">Hi 👋, I'm Himadri Mahata</h1>
 <h3 align="center">Digital Marketer | Blogger | YouTuber | WordPress Designer | web Designer | SEO Expert | Open-Source Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quickpucha&label=Profile%20views&color=0e75b6&style=flat" alt="quickpucha" /> </p>
